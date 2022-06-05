@@ -1,5 +1,5 @@
 # SPY-BREACHER
-**Python Tool to Find leaked passwords , usernames and breach data ......**
+**Python Tool to CHECK IF YOUR INFORMATION WAS EXPOSED IN A DATA BREACH ......**
 
 **Spy-Breacher is simple python tool which checks for leaked passwords for the given email using _breachdirectory API_ .......**
 
