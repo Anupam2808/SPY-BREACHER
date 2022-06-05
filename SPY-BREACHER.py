@@ -1,7 +1,7 @@
 
 import pyfiglet
   
-result = pyfiglet.figlet_format("SPY-BREACHER",font = 'doh',width = 500)
+result = pyfiglet.figlet_format("SPY-BREACHER")
 print(result)
 banner = pyfiglet.figlet_format("Developed by SPIDY", font="slant", justify="left")
 
