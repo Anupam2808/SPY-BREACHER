@@ -12,7 +12,7 @@ import time
 import requests
 
 import json
-!pip install json2html
+#pip install json2html
 from json2html import *
 
 PATH = 'api_file.txt'
