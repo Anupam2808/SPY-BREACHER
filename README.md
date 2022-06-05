@@ -18,6 +18,7 @@ This Tool is made for educational purposes only. Do not attempt to violate the l
 **Installation :**
 
 **Linux -: git clone https://github.com/Anupam2808/SPY-BREACHER**
+ 
            **pip install requirements.txt**
 
 **Windows -: Download the REPO OR Simply download the EXE File **
